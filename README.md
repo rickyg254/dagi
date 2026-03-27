@@ -28,3 +28,8 @@ python3 app.py
 ```
 
 3. Open `http://127.0.0.1:5000` in your browser.
+Simple interactive pastry ordering app.
+
+## Run
+
+Open `index.html` in a browser.
